@@ -1,0 +1,7 @@
+AlignConsecutiveDeclarations : true
+AlignConsecutiveAssignments : true
+ColumnLimit: 120
+IndentWidth : 4
+AccessModifierOffset : -4
+AllowShortFunctionsOnASingleLine : true
+PointerAlignment: Left
